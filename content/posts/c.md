@@ -4,7 +4,7 @@ date: 2026-03-13
 tags: [c-lang, zig]
 ---
 
-### sorry
+## sorry
 
 i was bussy for some days and i can't post any blogs for 5-6 days
 but from now i will post blogs frequently
